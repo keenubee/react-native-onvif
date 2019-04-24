@@ -1,0 +1,13 @@
+# OSX
+#
+.DS_Store
+
+# node.js
+#
+node_modules/
+*.log
+
+.vscode/
+jsconfig.json
+
+package-lock.json
